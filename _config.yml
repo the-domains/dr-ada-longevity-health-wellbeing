@@ -1,0 +1,28 @@
+name: 'Dr. Ada, Longevity, Health, Wellbeing'
+favicon: null
+layout_spectrum: 0.9889810741879046
+typography_spectrum: 0.3108893723692745
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.484790725633502
+  lightness: 0.7949138798285276
+  saturation: 0.29965871712192893
+  rhythmicContrast: 0.9460476757958531
+purpose: []
